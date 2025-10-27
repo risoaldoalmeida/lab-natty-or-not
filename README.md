@@ -33,7 +33,7 @@ Este e-book apresenta os principais Indicadores-Chave de Desempenho (KPIs) para 
 
 ## 🚀 Resultados  
 
-- 📗 E-book com 20 páginas sobre KPIs de RH  
+- 📗 E-book com 18 páginas sobre KPIs de RH  
 
 - 📊 Tabelas e gráficos ilustrativos gerados por IA  
 
