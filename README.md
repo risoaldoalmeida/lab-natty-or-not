@@ -11,9 +11,7 @@ Este e-book apresenta os principais Indicadores-Chave de Desempenho (KPIs) para 
 
 - 🧠 **Copilot / ChatGPT**: Criação dos textos e estrutura do e-book  
 
-- 🎨 **Canva / Midjourney**: Design da capa e elementos visuais  
-
-- 🗂️ **Notion / Google Docs**: Organização e edição do conteúdo  
+- 🎨 ** Power Point**: Design da capa e elementos visuais  
 
 - 🛠️ **GitHub**: Publicação e versionamento do projeto
 
